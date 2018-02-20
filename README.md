@@ -85,4 +85,4 @@ Jupyter Notebook的27个秘诀，技巧和快捷键  https://www.zybuluo.com/han
 
 小额打赏作者<br>
 
-<img src='images/payment.jpg' align="left" height="200" width="200"/>
+<img src='images/payment.jpg' align="left" height="300" width="200"/>
