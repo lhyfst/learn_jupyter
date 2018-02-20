@@ -1,4 +1,4 @@
-<img src='images/title.png'>
+<img src='images/title.png' align='center' />
 <img src="images/jupyter_icon.png"  alt="jupyter_icon" />
 
 >版本: 0.0.1 <br>
@@ -84,4 +84,5 @@ Jupyter Notebook的27个秘诀，技巧和快捷键  https://www.zybuluo.com/han
 ### 感觉有帮助？
 
 小额打赏作者<br>
-<img src='images/payment.jpg'align="left" height="200" width="200"/>
+
+<img src='images/payment.jpg' align="left" height="200" width="200"/>
