@@ -1,10 +1,13 @@
-<img src='images/title.png' align='center' />
+<h1 align='center'>Jupyter实用教程</h1>
 <img src="images/jupyter_icon.png"  alt="jupyter_icon" />
 
 >版本: 0.0.1 <br>
 >作者: 李贺元 <br>
 >邮箱: lhyfst@gmail.com <br>
 >版权归 李贺元(lhyfst) 和 od-do 组织所有 ,如需转载请与作者联系，不得用于商业用途 <br>
+
+
+使用 [Nbviewer](http://nbviewer.jupyter.org/github/lhyfst/learn_jupyter/blob/master/readme.ipynb) ，体验更顺畅！(Github中部分锚点失效，且加载较慢)
 
 ---
 
