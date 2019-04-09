@@ -1,12 +1,12 @@
 # 遇到了问题？
-<br>
-<br>
-<br>
-<br>
+
+## 1. c.NotebookApp.ip = '*' 无效？
+
+由于版本更新，最新版本的jupyter可能需要把配置文件jupyter_notebook_config.py中 `c.NotebookApp.ip = '*' ` 改为 `c.NotebookApp.ip = '0.0.0.0'`。
+
 <br>
 
-
-## 1. 如何在同一服务器账号下建立两个互不干扰的jupyter环境？
+## 2. 如何在同一服务器账号下建立两个互不干扰的jupyter环境？
 
 我原本认为只需要在不同的虚拟环境下启动jupyter就可以使用完全不同的环境了，但事实证明，这样建立的jupyter之间是有干扰的。主要是由于jupyter的环境变量和不同jupyter实际上是共享配置配置文件导致的。其中有一些值得注意的地方，故将其过程记录下来。
 
