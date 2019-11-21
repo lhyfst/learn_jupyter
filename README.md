@@ -37,7 +37,7 @@ jupyter是一款以浏览器为基础的在线交互式代码编辑器。其轻�
 jupyter的以下优点让频繁与数据打交道的你不得不认真思考是否入坑：
 
 * **多语言支持**：<br>
-$\ jupyter = ju(lia) + pyt(hon) + r $ 
+jupyter = ju(lia) + pyt(hon) + r
 <br>jupyter 即意味着多语言支持。更妙的是，jupyter可以在同一文件中支持多语言，让你能左手Python右手R地完成工作。
 
 * **强交互性**：<br>
