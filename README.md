@@ -82,10 +82,3 @@ A gallery of interesting Jupyter Notebooks  https://github.com/jupyter/jupyter/w
 nbextensions  http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html <br>
 装扮你的Jupyter  https://zhuanlan.zhihu.com/p/26739300?group_id=843868091631955968 <br>
 Jupyter Notebook的27个秘诀，技巧和快捷键  https://www.zybuluo.com/hanxiaoyang/note/534296 <br>
-
----
-### 感觉有帮助？
-
-小额打赏作者<br>
-
-<img src='images/payment.jpg' align="left" height="300" width="200"/>
